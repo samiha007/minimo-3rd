@@ -1,0 +1,288 @@
+*{
+  margin: o;
+  margin: 0;
+  padding: 0;
+}
+header{
+ width: 90%;
+ /* background-color: red; */
+ margin: auto;
+ overflow: hidden;
+ padding: 50px 0;
+}
+.logo{
+ width: 20%;
+ float: left;
+}
+nav{
+ width: 56%;
+ float: right;
+ overflow: hidden;
+}
+nav ul{
+ list-style: none;
+ float: right;
+ overflow: hidden;
+}
+nav ul li{
+ float: left;
+ margin-left: 85px;
+ color: #626262;
+ font-size: 14px;
+ text-transform: uppercase;
+}
+.banner{
+  width: 90%;
+  margin: auto;
+}
+.banner img{
+  width: 100%;
+}
+.photodairy{
+
+width: 80%;
+
+margin: auto;
+}
+.photodairy h5{
+
+font-size: 14px;
+
+text-transform: uppercase;
+
+color: #b4ad9e;
+
+margin: 15px;
+}
+.photodairy h1, .item-one h1, .item-two h1, .news h1{
+
+color: #626262;
+
+text-transform: capitalize;
+
+font-size: 35px;
+margin: 10px;
+}
+.photodairy p{
+
+font-size: 16px;
+
+color: #626262;
+
+margin-bottom: 30px;
+
+margin: 15px;
+}
+.lifestyle{
+
+ width: 80%;
+ 
+ margin: auto;
+ }
+ .content{
+   overflow: hidden;
+   width: 80%;
+   margin: auto;
+ }
+ .item-one{
+ 
+ width: 45%;
+ 
+ float: left;
+ padding: 50px 0;
+ }
+ .item-one img{
+ 
+ width: 100%;
+ }
+ .item-one h5{
+   font-size: 14px;
+
+   text-transform: uppercase;
+
+   color: #b4ad9e;
+   margin-top: 15px;
+
+ }
+ .item-one h1{
+   color: #626262;
+
+   text-transform: capitalize;
+
+   font-size: 35px;
+ 
+ }
+ .item-one p{
+ 
+ }
+ .item-two{
+ 
+ width: 45%;
+ 
+ float: right;
+ padding: 50px 0;
+ }
+ .item-two img{
+ 
+ width: 100%;
+ }
+ .item-two h5{
+   font-size: 14px;
+
+   text-transform: uppercase;
+
+   color: #b4ad9e;
+   margin-top: 15px;
+
+ }
+ .item-two h1{
+   color: #626262;
+
+   text-transform: capitalize;
+
+   font-size: 35px;
+ 
+ }
+ .item-two p{
+   
+ }
+ .newsletter{
+
+background-color: #f0f0f0;
+
+padding:  50px 0;
+
+}
+ .news{
+
+width: 35%;
+
+margin: auto;
+
+position: relative;
+}
+ .news h1{
+
+ }
+ .news input{
+
+border: none;
+
+background: transparent;
+
+border-bottom: 1px solid black;
+
+width: 100%;
+
+margin-top: 50px;
+
+padding: 10px 0;
+}
+.news input:focus{
+ outline: none;
+}
+.news input::placeholder{
+  text-transform: capitalize;
+}
+.icon{
+position: absolute;
+right: 0;
+bottom: 0;
+}
+.btn{
+
+text-align: center;
+
+padding: 100px 0;
+}
+button{
+  
+border: none;
+  
+background: transparent;
+  
+border: 1px solid black;
+  
+padding: 20px 30px;
+  
+font-size: 20px;
+  
+cursor: pointer;
+}
+ footer{
+
+background: #f0f0f0;
+
+padding:  50px 0;
+
+}
+ .footer-content{
+
+width: 80%;
+
+margin: auto;
+
+overflow: hidden;
+
+}
+ .privacy{
+
+width: 30%;
+
+float: left;
+
+}
+ .privacy ul{
+
+ }
+ .privacy ul li{
+
+float: left;
+
+list-style: none;
+
+/* margin-left: 15px; */
+
+margin-right: 18px;
+
+font-size: 16px;
+
+text-transform: capitalize;
+
+}
+ .social-icon{
+
+width: 30%;
+
+float: right;
+
+overflow: hidden;
+
+}
+ .social-icon ul{
+
+list-style: none;
+
+margin: 0;
+
+float: right;
+
+overflow: hidden;
+
+}
+ .social-icon ul li{
+
+float: left;
+
+font-size: 16px;
+
+text-transform: capitalize;
+
+color: #626262;
+
+margin-left: 15px;
+
+}
+ .social-icon ul li a{
+   
+ }
